@@ -75,7 +75,7 @@
 
 **下载仓库**
 ```bash
-git clone git@github.com:dongdongcan/write_qwen_from_scratch.git
+git clone git@github.com:ddsggcs/write_qwen_from_scratch.git
 ```
 
 **环境配置**

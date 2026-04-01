@@ -36,23 +36,23 @@
 
 # 项目学习路线
 
-本仓库的内容不包含 Qwen2 的技术细节（文档）的介绍，仅包含源码。项目的详细说明见：[从零手写 Qwen 系列模型](https://www.yuque.com/yuqueyonghupftxbc/ai100/lc1bna1l1dl2zp39)。
+本仓库的内容不包含 Qwen2 的技术细节（文档）的介绍，仅包含源码。项目的详细说明见：[从零手写 Qwen 系列模型](https://n1y353ixh7c.feishu.cn/wiki/DhzqwPgb7iBz4ekQgUecUARZnle?fromScene=spaceOverview)。
 
-如果你希望系统的学习 AI 大模型尤其是 Qwen 系列大模型的技术细节，欢迎订阅我的 AI 大模型技术专栏：[Transformer 通关秘籍](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)。
+如果你希望系统的学习 AI 大模型尤其是 Qwen 系列大模型的技术细节，欢迎访问我的 AI 大模型技术专栏：[Transformer 通关秘籍](https://n1y353ixh7c.feishu.cn/wiki/CXB9wjY2FihZC8kVSgec2mNZnfc)。
 
 技术专栏包含了几十万字内容和图解，详细梳理了大模型技术的前世今生，以及手把手带你玩转本项目的详实资料，还有有更加详细的**注释版本**的源代码可供学习，同时我也提供**一对一的学习辅导**服务，确保你完全学会，欢迎来撩（联系我）。
 
 ## 在这里订阅技术专栏
 
-- [Transformer 通关秘籍](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
+- [Transformer 通关秘籍](https://n1y353ixh7c.feishu.cn/wiki/CXB9wjY2FihZC8kVSgec2mNZnfc)
 
-- [从零手写大模型实战](https://www.yuque.com/yuqueyonghupftxbc/ai100/lc1bna1l1dl2zp39)
+- [从零手写大模型实战](https://n1y353ixh7c.feishu.cn/wiki/DhzqwPgb7iBz4ekQgUecUARZnle?fromScene=spaceOverview)
 
 ## 撩一撩（联系我）
 
-- 微信号：ddcsggcs (加微信备注：大模型)
+- 微信号：ddsggcs (加微信备注：大模型)
 
-- 微信公众号：[见这里](https://mp.weixin.qq.com/s/lKwSvfpMt7iNqa83_HlQug)
+- 微信公众号：[见这里](https://mp.weixin.qq.com/s/7rpr_GGpnW31mz2AeXX6IA)
 
 ---
 
@@ -91,7 +91,7 @@ python3 env.py
 
 ```shell
 Use the following cmd to enter virtual environment
->>> source /home/dongdongcan/write_qwen_from_scratch/.venv/bin/activate
+>>> source your/path/to/write_qwen_from_scratch/.venv/bin/activate
 ```
 
 **进入虚拟环境**
@@ -99,7 +99,7 @@ Use the following cmd to enter virtual environment
 执行输出的提示命令，进入虚拟环境
 
 ```bash
-source /home/dongdongcan/write_qwen_from_scratch/.venv/bin/activate
+source your/path/to/write_qwen_from_scratch/.venv/bin/activate
 ```
 
 **安装依赖**
